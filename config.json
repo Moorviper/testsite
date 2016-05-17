@@ -1,14 +1,8 @@
 {
   "dataPath": [
-    "https://meshviewer.fulda.freifunk.net/data/",
-    "https://meshviewer.fulda.freifunk.net/hessen/ks/",
-    "https://api.marburg.freifunk.net/",
-    "https://map.darmstadt.freifunk.net/data/",
-    "https://meshviewer.fulda.freifunk.net/hessen/wi/",
-    "https://meshviewer.fulda.freifunk.net/hessen/fr/",
-    "https://meshviewer.fulda.freifunk.net/hessen/rn/"
+    "https://meshviewer.fulda.freifunk.net/data/"
   ],
-  "siteName": "Freifunk Hessen",
+  "siteName": "Freifunk Fulda",
   "mapSigmaScale": 0.5,
   "showContact": true,
   "maxAge": 14,
@@ -50,7 +44,7 @@
     { "site": "ffwi", "name": "Freifunk Wiesbaden" }
   ],
   "hwImg": 
-  { "thumbnail": "https://cdn.rawgit.com/Moorviper/meshviewer_hwpics/master/nodes/{MODELHASH}.svg",
+  { "thumbnail": "https://rawgit.com/Moorviper/meshviewer_hwpics/master/nodes/{MODELHASH}.svg",
     "caption": "Knoten {MODELHASH}"
   }
 }
