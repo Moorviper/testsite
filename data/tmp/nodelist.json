@@ -1,0 +1,2189 @@
+{
+  "version": "1.0.1",
+  "nodes": [
+    {
+      "name": "gruemel-hedwig-base",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 3,
+        "online": true
+      },
+      "position": {
+        "lat": 50.626709948,
+        "long": 9.508624077
+      },
+      "id": "e894f667e628"
+    },
+    {
+      "name": "Rossbach_7_SIROMA-GW",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.70637,
+        "long": 9.77623
+      },
+      "id": "30b5c287711e"
+    },
+    {
+      "name": "Max-Bahr-Offloader",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.536804644,
+        "long": 9.697609842
+      },
+      "id": "0019995fb389"
+    },
+    {
+      "name": "MaxBahr-M2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 4,
+        "online": true
+      },
+      "position": {
+        "lat": 50.53745586,
+        "long": 9.69774127
+      },
+      "id": "687251360d47"
+    },
+    {
+      "name": "ReifenBrod",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.640679,
+        "long": 9.407990277
+      },
+      "id": "c4e98479e594"
+    },
+    {
+      "name": "fffd-haderwald-03",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.543224352,
+        "long": 9.642696977
+      },
+      "id": "14cc20e38916"
+    },
+    {
+      "name": "fffd-Suedhang",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.62947993,
+        "long": 9.498909116
+      },
+      "id": "60e327c77e22"
+    },
+    {
+      "name": "St.Josef",
+      "status": {
+        "lastcontact": "2016-03-12T09:30:01",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.55888,
+        "long": 9.681559
+      },
+      "id": "30b5c2dfc778"
+    },
+    {
+      "name": "fffd-haderwald-07",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.543480031,
+        "long": 9.641581178
+      },
+      "id": "60e32760525c"
+    },
+    {
+      "name": "fffd-haderwald-09",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.543565257,
+        "long": 9.641221762
+      },
+      "id": "60e327820d7a"
+    },
+    {
+      "name": "fffd-edelzell-04",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.525745,
+        "long": 9.700925
+      },
+      "id": "68725148b9cd"
+    },
+    {
+      "name": "Rossbach_9_Jaegerweg",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.706891,
+        "long": 9.777534
+      },
+      "id": "30b5c2cb9d60"
+    },
+    {
+      "name": "ffn-ap01",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.459138,
+        "long": 9.617857
+      },
+      "id": "30b5c2dfd26c"
+    },
+    {
+      "name": "office-factory",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "id": "14cc205ec610"
+    },
+    {
+      "name": "fffd-haderwald-04",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.543285715,
+        "long": 9.642289281
+      },
+      "id": "60e32781b9da"
+    },
+    {
+      "name": "fffd-haderwald-02",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.543384578,
+        "long": 9.642603099
+      },
+      "id": "e8de2758e2c3"
+    },
+    {
+      "name": "BewegungsLOUNGE",
+      "status": {
+        "lastcontact": "2016-03-07T17:09:01",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.558975014,
+        "long": 9.687012434
+      },
+      "id": "14cc20bbd194"
+    },
+    {
+      "name": "Nicolissima",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.550471469,
+        "long": 9.678735137
+      },
+      "id": "60e3277691ba"
+    },
+    {
+      "name": "fffd60e327be005e",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "id": "60e327be005e"
+    },
+    {
+      "name": "fffd-kuenzell-01",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.541398762,
+        "long": 9.710653424
+      },
+      "id": "30b5c2d5fae9"
+    },
+    {
+      "name": "Freifunk-Eiterfeld-Repeater3-2.4Ghz",
+      "status": {
+        "lastcontact": "2016-03-18T19:16:01",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.766027,
+        "long": 9.798888
+      },
+      "id": "f8d111271d44"
+    },
+    {
+      "name": "jo-jo-test",
+      "status": {
+        "lastcontact": "2016-03-17T21:19:01",
+        "clients": 0,
+        "online": false
+      },
+      "id": "30b5c2dfc782"
+    },
+    {
+      "name": "CafeamDales-Freifunk",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.438956,
+        "long": 9.773845
+      },
+      "id": "c4e98453fdcf"
+    },
+    {
+      "name": "greb-bahnhof-49-0",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 4,
+        "online": true
+      },
+      "id": "525400255dc5"
+    },
+    {
+      "name": "FreiFunk-Mobil",
+      "status": {
+        "lastcontact": "2016-03-12T12:51:01",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.562249,
+        "long": 9.684729
+      },
+      "id": "30b5c281493a"
+    },
+    {
+      "name": "Neue_Mitbewohner",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 21,
+        "online": true
+      },
+      "id": "60e32776ba20"
+    },
+    {
+      "name": "fffd-nhf-frh-01",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.453511415,
+        "long": 9.625675678
+      },
+      "id": "c46e1f0d3cbe"
+    },
+    {
+      "name": "FF-Lettgenbrunn-Egerl-Weg-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 8,
+        "online": true
+      },
+      "position": {
+        "lat": 50.16586,
+        "long": 9.42058
+      },
+      "id": "14cc20e1404a"
+    },
+    {
+      "name": "fffd-niesiger-Strasse-02",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.571906322,
+        "long": 9.672061801
+      },
+      "id": "30b5c222ae50"
+    },
+    {
+      "name": "greb-bahnhof-49-2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.492454,
+        "long": 9.346287
+      },
+      "id": "c46e1f2b6d56"
+    },
+    {
+      "name": "SoftwareEntwicklungAmMarktplatz_Gersfeld_Nord",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.450522717,
+        "long": 9.919162989
+      },
+      "id": "60e327b831c6"
+    },
+    {
+      "name": "fffd-haderwald-08",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.543374351,
+        "long": 9.641570449
+      },
+      "id": "10feedc1c7a0"
+    },
+    {
+      "name": "Fulda-Sued2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.539875,
+        "long": 9.677014
+      },
+      "id": "c46e1f317b12"
+    },
+    {
+      "name": "fffd-haderwald-10",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 3,
+        "online": true
+      },
+      "position": {
+        "lat": 50.544025476,
+        "long": 9.645046592
+      },
+      "id": "f81a67ca8ca2"
+    },
+    {
+      "name": "Huenfeld_1_LCN-Beauty",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.67358028,
+        "long": 9.76642158
+      },
+      "id": "30b5c2810680"
+    },
+    {
+      "name": "Rossbach_6_SOH-Networks",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.705777358,
+        "long": 9.775734544
+      },
+      "id": "30b5c2224f92"
+    },
+    {
+      "name": "gruemel-hedwig-og2.1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 7,
+        "online": true
+      },
+      "position": {
+        "lat": 50.62657024,
+        "long": 9.508881569
+      },
+      "id": "6466b3163b46"
+    },
+    {
+      "name": "fffd-maberzell-betz-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.561596,
+        "long": 9.634677
+      },
+      "id": "e894f62a2616"
+    },
+    {
+      "name": "fffd-graf-spee",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.562331702,
+        "long": 9.686443806
+      },
+      "id": "14cc203b1040"
+    },
+    {
+      "name": "fffd-edelzell-03-frisurenstudio-reiter",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.52556,
+        "long": 9.70085
+      },
+      "id": "30b5c2dfd332"
+    },
+    {
+      "name": "Neue_Mitbewohner_uplink",
+      "status": {
+        "lastcontact": "2016-03-06T20:24:01",
+        "clients": 0,
+        "online": false
+      },
+      "id": "14cc20c042a8"
+    },
+    {
+      "name": "Lux-Deutschland-GmbH-HQ1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.550406,
+        "long": 9.684949
+      },
+      "id": "30b5c2b055a6"
+    },
+    {
+      "name": "fffd-giesel-02",
+      "status": {
+        "lastcontact": "2016-03-19T08:44:01",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.504758959379,
+        "long": 9.5663613080978
+      },
+      "id": "30b5c2812590"
+    },
+    {
+      "name": "fffd-Centhof",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 4,
+        "online": true
+      },
+      "position": {
+        "lat": 50.553869663,
+        "long": 9.682629704
+      },
+      "id": "e8de27304332"
+    },
+    {
+      "name": "reith.it",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.633628,
+        "long": 9.510427
+      },
+      "id": "f4f26d6d0cec"
+    },
+    {
+      "name": "Nuss-EG-Freifunk",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 3,
+        "online": true
+      },
+      "position": {
+        "lat": 50.548024072,
+        "long": 9.709424973
+      },
+      "id": "c4e9847db2a9"
+    },
+    {
+      "name": "die_linke.offene_liste",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.554857,
+        "long": 9.678041
+      },
+      "id": "6466b37b8ede"
+    },
+    {
+      "name": "Lavanda-02",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 11,
+        "online": true
+      },
+      "id": "6872513611a1"
+    },
+    {
+      "name": "fffd-phms-lichenroth",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.434186,
+        "long": 9.324346
+      },
+      "id": "c46e1f31a488"
+    },
+    {
+      "name": "cafe-chaos-3",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.565263923,
+        "long": 9.685027599
+      },
+      "id": "14cc205d775a"
+    },
+    {
+      "name": "greb-bahnhof-49-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.492459,
+        "long": 9.346255
+      },
+      "id": "30b5c2c6bbb4"
+    },
+    {
+      "name": "fff-ap010",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.544839,
+        "long": 9.684195
+      },
+      "id": "60e327943604"
+    },
+    {
+      "name": "fffd-Rabanusstrasse02",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.550297633,
+        "long": 9.681285918
+      },
+      "id": "c4e984f7c0e6"
+    },
+    {
+      "name": "Gaestehaus",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.731308,
+        "long": 9.739872
+      },
+      "id": "c46e1fa12426"
+    },
+    {
+      "name": "SoftwareEntwicklungAmMarktplatz_Gersfeld",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.45035876,
+        "long": 9.919117391
+      },
+      "id": "c4e9847de3ed"
+    },
+    {
+      "name": "kuechenfunk.fffd",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.543285715,
+        "long": 9.642817676
+      },
+      "id": "fffd-K\u00fcchenfunk"
+    },
+    {
+      "name": "fffd-milseburg-02",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.545716313,
+        "long": 9.904716611
+      },
+      "id": "14cc203b16b8"
+    },
+    {
+      "name": "Musikwerkstatt",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.249714,
+        "long": 9.616734
+      },
+      "id": "60e327da6864"
+    },
+    {
+      "name": "Pacelliallee",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.548648,
+        "long": 9.706232
+      },
+      "id": "e894f6ab1ca0"
+    },
+    {
+      "name": "Oase-3.2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 14,
+        "online": true
+      },
+      "position": {
+        "lat": 50.537817264,
+        "long": 9.697853923
+      },
+      "id": "30b5c2ee7b60"
+    },
+    {
+      "name": "fffd-scharnhorst_bluecher_amandney_1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.559172673,
+        "long": 9.682415128
+      },
+      "id": "14cc20e39294"
+    },
+    {
+      "name": "FF-Lettgenbrunn-Egerl-Weg-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 3,
+        "online": true
+      },
+      "position": {
+        "lat": 50.16586,
+        "long": 9.42058
+      },
+      "id": "f4f26d33d290"
+    },
+    {
+      "name": "fffd-milseburg-01",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.545811762,
+        "long": 9.904587865
+      },
+      "id": "14cc203b15a8"
+    },
+    {
+      "name": "gruemel-umf-eg",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 4,
+        "online": true
+      },
+      "position": {
+        "lat": 50.671805,
+        "long": 9.765321
+      },
+      "id": "10feedaf7186"
+    },
+    {
+      "name": "Rossbach_4_Weserstrasse",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.70630563,
+        "long": 9.77680475
+      },
+      "id": "30b5c2810748"
+    },
+    {
+      "name": "fffd-6466b39042ca",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 8,
+        "online": true
+      },
+      "id": "6466b39042ca"
+    },
+    {
+      "name": "greb-wenneschneiderges-2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.488895,
+        "long": 9.337154
+      },
+      "id": "c46e1f86caba"
+    },
+    {
+      "name": "Nuss-1.OG-Freifunk",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.548157012,
+        "long": 9.709414244
+      },
+      "id": "c4e9847db288"
+    },
+    {
+      "name": "gw04",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "id": "GW04"
+    },
+    {
+      "name": "Lux-Deutschland-GmbH",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 21,
+        "online": true
+      },
+      "position": {
+        "lat": 50.553876479,
+        "long": 9.683479965
+      },
+      "id": "30b5c2b0421e"
+    },
+    {
+      "name": "Niesiger-Strasse-01",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.56671,
+        "long": 9.66428
+      },
+      "id": "e894f6526506"
+    },
+    {
+      "name": "Rossbach_5_Jaegerweg",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.70675407,
+        "long": 9.77707833
+      },
+      "id": "90f652b1bebe"
+    },
+    {
+      "name": "FiKaSiMi-Nord",
+      "status": {
+        "lastcontact": "2016-03-16T18:59:01",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.561697,
+        "long": 9.684014
+      },
+      "id": "30b5c2abe018"
+    },
+    {
+      "name": "Nuss-2.OG-Freifunk",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 3,
+        "online": true
+      },
+      "position": {
+        "lat": 50.548157012,
+        "long": 9.709414244
+      },
+      "id": "c4e9847db1ce"
+    },
+    {
+      "name": "greb-wenneschneiderges-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 5,
+        "online": true
+      },
+      "position": {
+        "lat": 50.489005,
+        "long": 9.337143
+      },
+      "id": "14cc20e39706"
+    },
+    {
+      "name": "Kaffee-Kultur",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.548460386184,
+        "long": 9.6746635437012
+      },
+      "id": "14cc206e98f0"
+    },
+    {
+      "name": "FF-Lettgenbrunn-Egerl-Weg-3",
+      "status": {
+        "lastcontact": "2016-03-18T09:28:01",
+        "clients": 0,
+        "online": false
+      },
+      "id": "c04a003ddce2"
+    },
+    {
+      "name": "fffd-14cc20e3e848",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "id": "14cc20e3e848"
+    },
+    {
+      "name": "Lux-Deutschland-GmbH-HQ2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.550309563,
+        "long": 9.684815705
+      },
+      "id": "14cc20c29dcc"
+    },
+    {
+      "name": "fffd-edelzell-09-sportplatz",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.52116,
+        "long": 9.701455
+      },
+      "id": "60e327e761a2"
+    },
+    {
+      "name": "fffd-edelzell-02-rauschert",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 3,
+        "online": true
+      },
+      "position": {
+        "lat": 50.525595,
+        "long": 9.699795
+      },
+      "id": "14cc20b740f0"
+    },
+    {
+      "name": "Niesig_Base",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.581239,
+        "long": 9.678016
+      },
+      "id": "e894f6cd4306"
+    },
+    {
+      "name": "fffd-nhf26wine",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.453588,
+        "long": 9.625559
+      },
+      "id": "64700284fbb8"
+    },
+    {
+      "name": "fffd-sickels-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.535465,
+        "long": 9.64864
+      },
+      "id": "e8de2765cbe9"
+    },
+    {
+      "name": "phms-zentralstation",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.611564039,
+        "long": 9.387382865
+      },
+      "id": "10feedcd6b1e"
+    },
+    {
+      "name": "Ochsenwiese1_Magdeburgerstrasse",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.557826,
+        "long": 9.690892
+      },
+      "id": "14cc203b293e"
+    },
+    {
+      "name": "Max-Bahr-wr841nd-v8-2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 4,
+        "online": true
+      },
+      "position": {
+        "lat": 50.538018421,
+        "long": 9.697384536
+      },
+      "id": "10feedf4ff00"
+    },
+    {
+      "name": "Lux-Deutschland-GmbH-HQ4",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.550297633,
+        "long": 9.685006142
+      },
+      "id": "14cc20bbd142"
+    },
+    {
+      "name": "fffd-am-Bahnuebergang-Marienstrasse",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.562927,
+        "long": 9.662942
+      },
+      "id": "c46e1f31a352"
+    },
+    {
+      "name": "Oase-3.1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.537708161,
+        "long": 9.697639346
+      },
+      "id": "30b5c2879988"
+    },
+    {
+      "name": "fffd-haderwald-06",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.543507303,
+        "long": 9.641750157
+      },
+      "id": "f81a67ca8788"
+    },
+    {
+      "name": "office-factory-2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.548692176347,
+        "long": 9.6723353862762
+      },
+      "id": "14cc202b9164"
+    },
+    {
+      "name": "5u3D3nD",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "id": "30b5c2d9bf16"
+    },
+    {
+      "name": "Neue_Mitbewohner",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 18,
+        "online": true
+      },
+      "id": "e894f64fb522"
+    },
+    {
+      "name": "maron-Friedrichstrasse",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.552237788,
+        "long": 9.675678693
+      },
+      "id": "f4f26d3fd62c"
+    },
+    {
+      "name": "Max-Bahr-wr841nd-v8-3",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 14,
+        "online": true
+      },
+      "position": {
+        "lat": 50.538100248,
+        "long": 9.69755888
+      },
+      "id": "c04a004a4f16"
+    },
+    {
+      "name": "Lavanda-05",
+      "status": {
+        "lastcontact": "2016-03-19T15:09:01",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.625464424,
+        "long": 9.507800639
+      },
+      "id": "c46e1f2d6836"
+    },
+    {
+      "name": "gw02",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "id": "GW02"
+    },
+    {
+      "name": "Lux-Deutschland-GmbH-HQ3",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.550309563,
+        "long": 9.684845209
+      },
+      "id": "c46e1fdeadc8"
+    },
+    {
+      "name": "fffd-Bronnzell-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.512406561,
+        "long": 9.6763587
+      },
+      "id": "c46e1f87bfb8"
+    },
+    {
+      "name": "asta-2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.56546,
+        "long": 9.684792
+      },
+      "id": "14cc203b24c8"
+    },
+    {
+      "name": "Freifunk-HEF-Wlan-Public-2.4Ghz",
+      "status": {
+        "lastcontact": "2016-03-16T14:18:01",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.879635,
+        "long": 9.697365
+      },
+      "id": "f8d11122f5ce"
+    },
+    {
+      "name": "fffd-namedesknotens",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.559171,
+        "long": 9.682379
+      },
+      "id": "e8de273044d2"
+    },
+    {
+      "name": "fffd-doenertier2",
+      "status": {
+        "lastcontact": "2016-03-12T01:27:01",
+        "clients": 0,
+        "online": false
+      },
+      "id": "30b5c281228c"
+    },
+    {
+      "name": "fffd-edelzell-01-pizzeria-bella-napoli",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 3,
+        "online": true
+      },
+      "position": {
+        "lat": 50.526445,
+        "long": 9.704075
+      },
+      "id": "c04a002cec02"
+    },
+    {
+      "name": "Rossbach_8_SOH-Networks",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.7060286,
+        "long": 9.7757938
+      },
+      "id": "30b5c281059e"
+    },
+    {
+      "name": "gruemel-hedwig-og3.1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 6,
+        "online": true
+      },
+      "position": {
+        "lat": 50.626675877,
+        "long": 9.508779023
+      },
+      "id": "30b5c2383719"
+    },
+    {
+      "name": "gruemel-umf-1.og",
+      "status": {
+        "lastcontact": "2016-03-18T17:09:02",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.671805,
+        "long": 9.765321
+      },
+      "id": "6466b3c6e5aa"
+    },
+    {
+      "name": "FF-Lettgenbrunn-Egerl-Weg-3",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 10,
+        "online": true
+      },
+      "position": {
+        "lat": 50.16581,
+        "long": 9.42061
+      },
+      "id": "14cc20e1406c"
+    },
+    {
+      "name": "Max-Bahr-wdr3600-4",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.537970689,
+        "long": 9.697719812
+      },
+      "id": "e8de27590f57"
+    },
+    {
+      "name": "gruemel-hedwig-og1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 8,
+        "online": true
+      },
+      "position": {
+        "lat": 50.626842666,
+        "long": 9.508629441
+      },
+      "id": "14cc202b8fa5"
+    },
+    {
+      "name": "Fulda-Sued",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.539875,
+        "long": 9.67677
+      },
+      "id": "647002aa0c08"
+    },
+    {
+      "name": "Schoen-und-Gut",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.551781466803,
+        "long": 9.6749371290207
+      },
+      "id": "14cc206e9ab0"
+    },
+    {
+      "name": "Alsfeld-Freiwilligenzentrum",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.74939,
+        "long": 9.270496
+      },
+      "id": "0418d6526dcf"
+    },
+    {
+      "name": "fffd30b5c20e8be2",
+      "status": {
+        "lastcontact": "2016-03-08T20:25:01",
+        "clients": 0,
+        "online": false
+      },
+      "id": "30b5c20e8be2"
+    },
+    {
+      "name": "gw01",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "id": "GW01"
+    },
+    {
+      "name": "fffd-heinrichstrasse-02",
+      "status": {
+        "lastcontact": "2016-03-05T20:46:01",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.550396481,
+        "long": 9.685698152
+      },
+      "id": "f81a67ca8c30"
+    },
+    {
+      "name": "cafe-chaos-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.565142958,
+        "long": 9.685150981
+      },
+      "id": "30b5c2528bba"
+    },
+    {
+      "name": "fffd-haderwald-05",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.543396509,
+        "long": 9.642418027
+      },
+      "id": "60e32781b998"
+    },
+    {
+      "name": "asta_kvm",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 5,
+        "online": true
+      },
+      "position": {
+        "lat": 50.565517779,
+        "long": 9.684909582
+      },
+      "id": "001a4a55e50c"
+    },
+    {
+      "name": "Rossbach_10_Jaegerweg",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.706825413,
+        "long": 9.776957631
+      },
+      "id": "60e3279ac2ea"
+    },
+    {
+      "name": "fffd-mobilespot",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "id": "e8de2758e9da"
+    },
+    {
+      "name": "gruemel-umf",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 7,
+        "online": true
+      },
+      "position": {
+        "lat": 50.671822635,
+        "long": 9.765413404
+      },
+      "id": "30b5c2c6b99e"
+    },
+    {
+      "name": "Lavanda-01",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 18,
+        "online": true
+      },
+      "position": {
+        "lat": 50.625627773,
+        "long": 9.507827461
+      },
+      "id": "24a43c66a764"
+    },
+    {
+      "name": "fffd-edelzell-05-milchhof-huegel",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.52812,
+        "long": 9.70322
+      },
+      "id": "68725146af7b"
+    },
+    {
+      "name": "Tag_und_Nachtcafe_Sonne",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 5,
+        "online": true
+      },
+      "position": {
+        "lat": 50.550065851,
+        "long": 9.679116011
+      },
+      "id": "14cc208a25d1"
+    },
+    {
+      "name": "Hexenturm",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.552518,
+        "long": 9.673019
+      },
+      "id": "e8de27f913d4"
+    },
+    {
+      "name": "fffd-scharnhorststrassewg2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.559171,
+        "long": 9.682379
+      },
+      "id": "30b5c2abe174"
+    },
+    {
+      "name": "greb-wenneschneiderges-4",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.488722837,
+        "long": 9.33724165
+      },
+      "id": "14cc203b43d0"
+    },
+    {
+      "name": "Max-Bahr-wdr3600-2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 83,
+        "online": true
+      },
+      "position": {
+        "lat": 50.536970903,
+        "long": 9.697297364
+      },
+      "id": "c04a006d05da"
+    },
+    {
+      "name": "Doenertier",
+      "status": {
+        "lastcontact": "2016-03-15T15:56:01",
+        "clients": 0,
+        "online": false
+      },
+      "id": "30b5c2230e38"
+    },
+    {
+      "name": "Freifunk-Eiterfeld-Repeater4-2.4GHz",
+      "status": {
+        "lastcontact": "2016-03-18T18:56:02",
+        "clients": 0,
+        "online": false
+      },
+      "id": "647002eb94ae"
+    },
+    {
+      "name": "Max-Bahr-wdr3600-3",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 78,
+        "online": true
+      },
+      "position": {
+        "lat": 50.536970903,
+        "long": 9.697951823
+      },
+      "id": "c04a008d802a"
+    },
+    {
+      "name": "Lavanda-04",
+      "status": {
+        "lastcontact": "2016-03-05T17:31:02",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.625804734,
+        "long": 9.507969618
+      },
+      "id": "30b5c20e97ea"
+    },
+    {
+      "name": "greb-bahnhof-49-3",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.492414,
+        "long": 9.346524
+      },
+      "id": "30b5c2c6ba12"
+    },
+    {
+      "name": "office-factory",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.548692176347,
+        "long": 9.6723353862762
+      },
+      "id": "c46e1fa69034"
+    },
+    {
+      "name": "scifire_test",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "id": "f4f26d3f9d48"
+    },
+    {
+      "name": "Gaestehaus1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 3,
+        "online": true
+      },
+      "position": {
+        "lat": 50.730659,
+        "long": 9.7391
+      },
+      "id": "30b5c2812414"
+    },
+    {
+      "name": "Max-Bahr-wdr3600-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 27,
+        "online": true
+      },
+      "position": {
+        "lat": 50.537063768,
+        "long": 9.697604477
+      },
+      "id": "c04a0038ed16"
+    },
+    {
+      "name": "Lux-Deutschland-GmbH-HQ5",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.550301041,
+        "long": 9.685070515
+      },
+      "id": "14cc20c250c6"
+    },
+    {
+      "name": "fffd-Am-Waldschloesschen-71c-Sued-West",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 5,
+        "online": true
+      },
+      "position": {
+        "lat": 50.561237175,
+        "long": 9.6876022397
+      },
+      "id": "90f6524ae24c"
+    },
+    {
+      "name": "Alsfeld_Weinhaus",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 18,
+        "online": true
+      },
+      "position": {
+        "lat": 50.751072061,
+        "long": 9.27105546
+      },
+      "id": "60e32732bcde"
+    },
+    {
+      "name": "fff-ap011",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.544839,
+        "long": 9.684195
+      },
+      "id": "60e327c6ed54"
+    },
+    {
+      "name": "fleischerei-ruhl.de",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 4,
+        "online": true
+      },
+      "position": {
+        "lat": 50.58911,
+        "long": 9.540269
+      },
+      "id": "f4f26d6d28af"
+    },
+    {
+      "name": "fffd-kuenzell-02",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 3,
+        "online": true
+      },
+      "position": {
+        "lat": 50.541333987,
+        "long": 9.710446894
+      },
+      "id": "30b5c2d5fbdf"
+    },
+    {
+      "name": "Rossbach_3_SIROMA",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.70636,
+        "long": 9.77622
+      },
+      "id": "30b5c281061c"
+    },
+    {
+      "name": "fffd-edelzell-07-docjoh",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.525225,
+        "long": 9.696975
+      },
+      "id": "6872514028f6"
+    },
+    {
+      "name": "Rossbach_1_SOH-Networks-GW",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.705958,
+        "long": 9.775893
+      },
+      "id": "c46e1fdf117e"
+    },
+    {
+      "name": "hohe-tanne",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.14833160701,
+        "long": 8.861052989926
+      },
+      "id": "e894f62977de"
+    },
+    {
+      "name": "Max-Bahr-wr841nd-v8-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.537936594,
+        "long": 9.697215557
+      },
+      "id": "10feedf4cb38"
+    },
+    {
+      "name": "fffd-edelzell-06-docjul",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.525225,
+        "long": 9.696975
+      },
+      "id": "68725136273c"
+    },
+    {
+      "name": "Lisas-Freifunk",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.562346,
+        "long": 9.686492
+      },
+      "id": "30b5c2abe158"
+    },
+    {
+      "name": "cafe-chaos-2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.5652077,
+        "long": 9.685220718
+      },
+      "id": "c46e1f2b6cea"
+    },
+    {
+      "name": "fffd-Rabanusstrasse01",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 2,
+        "online": true
+      },
+      "position": {
+        "lat": 50.550198785,
+        "long": 9.681355655
+      },
+      "id": "c4e984f7d384"
+    },
+    {
+      "name": "fffd-kufuewg-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.55809,
+        "long": 9.67852
+      },
+      "id": "e8de27304f62"
+    },
+    {
+      "name": "gruemel-hedwig-og2",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.626720157,
+        "long": 9.508817196
+      },
+      "id": "30b5c2567af3"
+    },
+    {
+      "name": "asta-1",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.56539,
+        "long": 9.684984
+      },
+      "id": "14cc203b291c"
+    },
+    {
+      "name": "hohe-tanne",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.14833160701,
+        "long": 8.861052989926
+      },
+      "id": "e894f640efb2"
+    },
+    {
+      "name": "Huenfeld_2_Kantweg",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.660415,
+        "long": 9.769083
+      },
+      "id": "64700277dbf4"
+    },
+    {
+      "name": "Rossbach_2_SIROMA",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.706257507017,
+        "long": 9.7762334346771
+      },
+      "id": "90f652484917"
+    },
+    {
+      "name": "GU-Gersfeld-001",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 6,
+        "online": true
+      },
+      "position": {
+        "lat": 50.4525198,
+        "long": 9.9103553
+      },
+      "id": "30b5c2dfc4b4"
+    },
+    {
+      "name": "FiKaSiMi-Sued",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.561655,
+        "long": 9.684234
+      },
+      "id": "f8d1112f5538"
+    },
+    {
+      "name": "Anuschka",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.548998956,
+        "long": 9.679153562
+      },
+      "id": "14cc206e9ad0"
+    },
+    {
+      "name": "greb-wenneschneiderges-3",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.488786,
+        "long": 9.337216
+      },
+      "id": "14cc205a887c"
+    },
+    {
+      "name": "CuC_Petersberg",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 3,
+        "online": true
+      },
+      "id": "c46e1fb39c18"
+    },
+    {
+      "name": "fffd-edelzell-00-kestrel",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.525225,
+        "long": 9.696975
+      },
+      "id": "68725148b814"
+    },
+    {
+      "name": "freifunk-hofbieber",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.58586,
+        "long": 9.83741
+      },
+      "id": "14cc20bb74b6"
+    },
+    {
+      "name": "Blubber-Blase",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.6373364,
+        "long": 9.399200678
+      },
+      "id": "60e327601f6e"
+    },
+    {
+      "name": "fffd-kufuewg-base",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 3,
+        "online": true
+      },
+      "position": {
+        "lat": 50.558058272,
+        "long": 9.678340852
+      },
+      "id": "30b5c26ea5ed"
+    },
+    {
+      "name": "fffd-edelzell-08-buergerhaus",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 0,
+        "online": true
+      },
+      "position": {
+        "lat": 50.526815,
+        "long": 9.70395
+      },
+      "id": "60e327e73ac0"
+    },
+    {
+      "name": "lauterbach",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "id": "30b5c2d9cb02"
+    },
+    {
+      "name": "fffd-haderwald-01",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.543316397,
+        "long": 9.642739892
+      },
+      "id": "e894f63f6726"
+    },
+    {
+      "name": "MosquitonetFreifunkFulda",
+      "status": {
+        "lastcontact": "2016-03-19T17:31:01",
+        "clients": 1,
+        "online": true
+      },
+      "position": {
+        "lat": 50.56265,
+        "long": 9.71855
+      },
+      "id": "f4f26d40713a"
+    },
+    {
+      "name": "Freifunk-Eiterfeld-Public-WIFI3",
+      "status": {
+        "lastcontact": "2016-03-13T17:44:01",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.766027,
+        "long": 9.798888
+      },
+      "id": "e894f6df13ac"
+    },
+    {
+      "name": "Freifunk-Public-WLAN-Eiterfeld",
+      "status": {
+        "lastcontact": "2016-03-18T21:20:01",
+        "clients": 0,
+        "online": false
+      },
+      "position": {
+        "lat": 50.766027,
+        "long": 9.798888
+      },
+      "id": "6466b32f0f58"
+    }
+  ],
+  "updated_at": "2016-03-19T17:31:01"
+}

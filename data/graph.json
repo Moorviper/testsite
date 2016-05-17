@@ -1,0 +1,2895 @@
+{
+  "batadv": {
+    "nodes": [
+      {
+        "node_id": "14cc203b43d0",
+        "id": "16:cf:21:3b:43:d0"
+      },
+      {
+        "node_id": "e894f62a2616",
+        "id": "ea:98:f6:2a:26:16"
+      },
+      {
+        "node_id": "f81a67ca8788",
+        "id": "fa:1e:67:ca:87:88"
+      },
+      {
+        "node_id": "f4f26d40713a",
+        "id": "f6:f6:6d:40:71:3a"
+      },
+      {
+        "node_id": "30b5c2d5fbdf",
+        "id": "32:b9:c2:d5:fb:df"
+      },
+      {
+        "node_id": "001a4a55e50c",
+        "id": "02:1e:4a:55:e5:0c"
+      },
+      {
+        "node_id": "14cc20b740f0",
+        "id": "16:d0:20:b7:40:f0"
+      },
+      {
+        "node_id": "30b5c2383719",
+        "id": "32:b8:c3:38:37:19"
+      },
+      {
+        "node_id": "14cc205ec610",
+        "id": "16:cf:21:5e:c6:10"
+      },
+      {
+        "node_id": "14cc203b291c",
+        "id": "16:cf:21:3b:29:1c"
+      },
+      {
+        "node_id": "14cc20e1406c",
+        "id": "16:d0:20:e1:40:6c"
+      },
+      {
+        "node_id": "6466b39042ca",
+        "id": "66:69:b4:90:42:ca"
+      },
+      {
+        "node_id": "30b5c2b055a6",
+        "id": "32:b8:c3:b0:55:a6"
+      },
+      {
+        "node_id": "64700284fbb8",
+        "id": "66:74:02:84:fb:b8"
+      },
+      {
+        "node_id": "6872514028f6",
+        "id": "6a:75:52:40:28:f6"
+      },
+      {
+        "node_id": "30b5c26ea5ed",
+        "id": "32:b6:c3:6e:a5:ed"
+      },
+      {
+        "id": "ea:97:f8:67:e6:28"
+      },
+      {
+        "id": "aa:65:d9:e2:9b:6b"
+      },
+      {
+        "node_id": "14cc206e98f0",
+        "id": "16:d0:20:6e:98:f0"
+      },
+      {
+        "node_id": "14cc20e38916",
+        "id": "16:cf:21:e3:89:16"
+      },
+      {
+        "node_id": "c4e9847de3ed",
+        "id": "c6:ec:85:7d:e3:ed"
+      },
+      {
+        "node_id": "687251360d47",
+        "id": "6a:73:51:36:0d:47"
+      },
+      {
+        "node_id": "c4e9847db288",
+        "id": "c6:ec:86:7d:b2:88"
+      },
+      {
+        "node_id": "GW04",
+        "id": "26:13:9d:da:31:8a"
+      },
+      {
+        "node_id": "e8de27590f57",
+        "id": "ea:df:28:59:0f:57"
+      },
+      {
+        "node_id": "60e32732bcde",
+        "id": "62:e7:27:32:bc:de"
+      },
+      {
+        "node_id": "30b5c2ee7b60",
+        "id": "32:b6:c2:ee:7b:60"
+      },
+      {
+        "node_id": "c46e1f86caba",
+        "id": "c6:71:20:86:ca:ba"
+      },
+      {
+        "node_id": "e8de2758e9da",
+        "id": "ea:e1:28:58:e9:da"
+      },
+      {
+        "node_id": "c46e1fb39c18",
+        "id": "c6:72:1f:b3:9c:18"
+      },
+      {
+        "node_id": "c4e984f7c0e6",
+        "id": "c6:ec:85:f7:c0:e6"
+      },
+      {
+        "node_id": "6872513611a1",
+        "id": "6a:75:52:36:11:a1"
+      },
+      {
+        "node_id": "60e32781b998",
+        "id": "62:e6:28:81:b9:98"
+      },
+      {
+        "node_id": "14cc203b24c8",
+        "id": "16:cf:21:3b:24:c8"
+      },
+      {
+        "node_id": "14cc203b293e",
+        "id": "16:d0:20:3b:29:3e"
+      },
+      {
+        "node_id": "14cc20e1404a",
+        "id": "16:cf:21:e1:40:4a"
+      },
+      {
+        "node_id": "c46e1fdeadc8",
+        "id": "c6:71:20:de:ad:c8"
+      },
+      {
+        "node_id": "c4e9847db2a9",
+        "id": "c6:ec:85:7d:b2:a9"
+      },
+      {
+        "node_id": "e8de2765cbe9",
+        "id": "ea:e1:28:65:cb:e9"
+      },
+      {
+        "node_id": "14cc20bbd142",
+        "id": "16:cf:21:bb:d1:42"
+      },
+      {
+        "node_id": "68725148b814",
+        "id": "6a:75:52:48:b8:14"
+      },
+      {
+        "node_id": "e894f640efb2",
+        "id": "ea:97:f7:40:ef:b2"
+      },
+      {
+        "node_id": "30b5c2b0421e",
+        "id": "32:b9:c2:b0:42:1e"
+      },
+      {
+        "node_id": "0019995fb389",
+        "id": "02:1a:9a:5f:b3:89"
+      },
+      {
+        "node_id": "14cc20e39706",
+        "id": "16:cf:21:e3:97:06"
+      },
+      {
+        "node_id": "14cc202b8fa5",
+        "id": "16:cf:21:2b:8f:a5"
+      },
+      {
+        "node_id": "c46e1fa69034",
+        "id": "c6:72:1f:a6:90:34"
+      },
+      {
+        "node_id": "c04a006d05da",
+        "id": "c2:4b:01:6d:05:da"
+      },
+      {
+        "node_id": "30b5c2567af3",
+        "id": "32:b8:c3:56:7a:f3"
+      },
+      {
+        "node_id": "f4f26d3f9d48",
+        "id": "f6:f6:6d:3f:9d:48"
+      },
+      {
+        "node_id": null,
+        "id": "26:13:9d:eb:61:8d"
+      },
+      {
+        "id": "26:13:9d:ea:e1:1b"
+      },
+      {
+        "node_id": "30b5c2812414",
+        "id": "32:b8:c3:81:24:14"
+      },
+      {
+        "node_id": "c46e1f31a488",
+        "id": "c6:72:1f:31:a4:88"
+      },
+      {
+        "id": "ea:97:f7:4f:b5:22"
+      },
+      {
+        "node_id": "e894f667e628",
+        "id": "ea:98:f6:67:e6:28"
+      },
+      {
+        "node_id": "525400255dc5",
+        "id": "52:58:00:25:5d:c5"
+      },
+      {
+        "node_id": "14cc20e39294",
+        "id": "16:d0:20:e3:92:94"
+      },
+      {
+        "node_id": "68725136273c",
+        "id": "6a:75:52:36:27:3c"
+      },
+      {
+        "node_id": "f4f26d33d290",
+        "id": "f6:f5:6e:33:d2:90"
+      },
+      {
+        "node_id": "14cc20e3e848",
+        "id": "16:cf:21:e3:e8:48"
+      },
+      {
+        "node_id": "60e327943604",
+        "id": "62:e6:28:94:36:04"
+      },
+      {
+        "node_id": "30b5c287711e",
+        "id": "32:b8:c3:87:71:1e"
+      },
+      {
+        "node_id": "c04a004a4f16",
+        "id": "c2:4b:01:4a:4f:16"
+      },
+      {
+        "node_id": "c46e1f87bfb8",
+        "id": "c6:72:1f:87:bf:b8"
+      },
+      {
+        "node_id": "e894f62977de",
+        "id": "ea:97:f7:29:77:de"
+      },
+      {
+        "node_id": "f4f26d3fd62c",
+        "id": "f6:f6:6d:3f:d6:2c"
+      },
+      {
+        "node_id": "60e327820d7a",
+        "id": "62:e6:28:82:0d:7a"
+      },
+      {
+        "node_id": "e894f6526506",
+        "id": "ea:98:f6:52:65:06"
+      },
+      {
+        "node_id": "e8de273044d2",
+        "id": "ea:e1:28:30:44:d2"
+      },
+      {
+        "node_id": "30b5c2cb9d60",
+        "id": "32:b8:c3:cb:9d:60"
+      },
+      {
+        "node_id": "30b5c2810680",
+        "id": "32:b9:c2:81:06:80"
+      },
+      {
+        "node_id": "30b5c2c6b99e",
+        "id": "32:b9:c2:c6:b9:9e"
+      },
+      {
+        "node_id": "6466b3163b46",
+        "id": "66:69:b4:16:3b:46"
+      },
+      {
+        "node_id": "c4e984f7d384",
+        "id": "c6:ec:85:f7:d3:84"
+      },
+      {
+        "node_id": "c4e98479e594",
+        "id": "c6:ed:84:79:e5:94"
+      },
+      {
+        "node_id": "60e3279ac2ea",
+        "id": "62:e6:28:9a:c2:ea"
+      },
+      {
+        "node_id": "14cc208a25d1",
+        "id": "16:d0:20:8a:25:d1"
+      },
+      {
+        "node_id": "60e32781b9da",
+        "id": "62:e6:28:81:b9:da"
+      },
+      {
+        "node_id": "68725146af7b",
+        "id": "6a:76:51:46:af:7b"
+      },
+      {
+        "node_id": "24a43c66a764",
+        "id": "26:a7:3d:66:a7:64"
+      },
+      {
+        "node_id": "30b5c2dfc4b4",
+        "id": "32:b9:c2:df:c4:b4"
+      },
+      {
+        "node_id": "60e327c6ed54",
+        "id": "62:e6:28:c6:ed:54"
+      },
+      {
+        "node_id": "90f652b1bebe",
+        "id": "92:f9:53:b1:be:be"
+      },
+      {
+        "node_id": "e8de27f913d4",
+        "id": "ea:e2:27:f9:13:d4"
+      },
+      {
+        "node_id": "30b5c222ae50",
+        "id": "32:b9:c2:22:ae:50"
+      },
+      {
+        "node_id": "14cc203b1040",
+        "id": "16:d0:20:3b:10:40"
+      },
+      {
+        "node_id": "e894f6ab1ca0",
+        "id": "ea:98:f6:ab:1c:a0"
+      },
+      {
+        "node_id": "30b5c281061c",
+        "id": "32:b8:c3:81:06:1c"
+      },
+      {
+        "node_id": "30b5c2abe174",
+        "id": "32:b9:c2:ab:e1:74"
+      },
+      {
+        "id": "16:cf:21:8a:25:d1"
+      },
+      {
+        "node_id": "c46e1f0d3cbe",
+        "id": "c6:71:20:0d:3c:be"
+      },
+      {
+        "node_id": "30b5c281059e",
+        "id": "32:b8:c3:81:05:9e"
+      },
+      {
+        "node_id": "30b5c2528bba",
+        "id": "32:b8:c3:52:8b:ba"
+      },
+      {
+        "node_id": "14cc203b15a8",
+        "id": "16:d0:20:3b:15:a8"
+      },
+      {
+        "node_id": "c04a0038ed16",
+        "id": "c2:4b:01:38:ed:16"
+      },
+      {
+        "node_id": "14cc20c29dcc",
+        "id": "16:cf:21:c2:9d:cc"
+      },
+      {
+        "node_id": "e8de2758e2c3",
+        "id": "ea:e1:28:58:e2:c3"
+      },
+      {
+        "node_id": "c46e1f2b6cea",
+        "id": "c6:71:20:2b:6c:ea"
+      },
+      {
+        "node_id": "60e3277691ba",
+        "id": "62:e7:27:76:91:ba"
+      },
+      {
+        "node_id": "f4f26d6d0cec",
+        "id": "f6:f6:6d:6d:0c:ec"
+      },
+      {
+        "node_id": "60e327e73ac0",
+        "id": "62:e6:28:e7:3a:c0"
+      },
+      {
+        "node_id": "c04a002cec02",
+        "id": "c2:4e:00:2c:ec:02"
+      },
+      {
+        "node_id": "f81a67ca8ca2",
+        "id": "fa:1e:67:ca:8c:a2"
+      },
+      {
+        "node_id": "f4f26d6d28af",
+        "id": "f6:f6:6d:6d:28:af"
+      },
+      {
+        "node_id": "60e32760525c",
+        "id": "62:e6:28:60:52:5c"
+      },
+      {
+        "node_id": "10feedc1c7a0",
+        "id": "12:02:ed:c1:c7:a0"
+      },
+      {
+        "node_id": "30b5c2879988",
+        "id": "32:b6:c2:87:99:88"
+      },
+      {
+        "node_id": "f8d1112f5538",
+        "id": "fa:d4:12:2f:55:38"
+      },
+      {
+        "node_id": "60e327da6864",
+        "id": "62:e7:27:da:68:64"
+      },
+      {
+        "node_id": "14cc205a887c",
+        "id": "16:cf:21:5a:88:7c"
+      },
+      {
+        "node_id": "e8de27304f62",
+        "id": "ea:df:27:30:4f:62"
+      },
+      {
+        "node_id": "c46e1fa12426",
+        "id": "c6:71:20:a1:24:26"
+      },
+      {
+        "node_id": "68725148b9cd",
+        "id": "6a:75:52:48:b9:cd"
+      },
+      {
+        "node_id": "10feedf4cb38",
+        "id": "12:ff:ee:f4:cb:38"
+      },
+      {
+        "node_id": "6466b37b8ede",
+        "id": "66:6a:b3:7b:8e:de"
+      },
+      {
+        "node_id": "647002aa0c08",
+        "id": "66:73:03:aa:0c:08"
+      },
+      {
+        "node_id": "30b5c2810748",
+        "id": "32:b9:c2:81:07:48"
+      },
+      {
+        "node_id": null,
+        "id": "00:00:ff:fd:00:45"
+      },
+      {
+        "node_id": "30b5c2d5fae9",
+        "id": "32:b6:c2:d5:fa:e9"
+      },
+      {
+        "node_id": "c4e9847db1ce",
+        "id": "c6:ec:85:7d:b1:ce"
+      },
+      {
+        "node_id": null,
+        "id": "72:86:7a:19:fe:17"
+      },
+      {
+        "node_id": "30b5c2224f92",
+        "id": "32:b8:c3:22:4f:92"
+      },
+      {
+        "node_id": "c4e98453fdcf",
+        "id": "c6:ed:84:53:fd:cf"
+      },
+      {
+        "node_id": "c46e1f317b12",
+        "id": "c6:71:20:31:7b:12"
+      },
+      {
+        "node_id": "0418d6526dcf",
+        "id": "06:1c:d6:52:6d:cf"
+      },
+      {
+        "node_id": "64700277dbf4",
+        "id": "66:74:02:77:db:f4"
+      },
+      {
+        "node_id": "GW01",
+        "id": "26:13:9d:b4:31:a7"
+      },
+      {
+        "node_id": "GW02",
+        "id": "00:1c:42:00:04:93"
+      },
+      {
+        "node_id": "60e32776ba20",
+        "id": "62:e6:28:76:ba:20"
+      },
+      {
+        "node_id": "30b5c2c6bbb4",
+        "id": "32:b8:c3:c6:bb:b4"
+      },
+      {
+        "node_id": "c46e1f31a352",
+        "id": "c6:72:1f:31:a3:52"
+      },
+      {
+        "node_id": "10feedf4ff00",
+        "id": "12:ff:ee:f4:ff:00"
+      },
+      {
+        "node_id": "60e327b831c6",
+        "id": "62:e6:28:b8:31:c6"
+      },
+      {
+        "node_id": "60e327c77e22",
+        "id": "62:e7:27:c7:7e:22"
+      },
+      {
+        "node_id": "30b5c2c6ba12",
+        "id": "32:b8:c3:c6:ba:12"
+      },
+      {
+        "node_id": "14cc202b9164",
+        "id": "16:cf:21:2b:91:64"
+      },
+      {
+        "node_id": "30b5c2d9bf16",
+        "id": "32:b9:c2:d9:bf:16"
+      },
+      {
+        "node_id": "14cc205d775a",
+        "id": "16:cf:21:5d:77:5a"
+      },
+      {
+        "node_id": "c04a008d802a",
+        "id": "c2:4b:01:8d:80:2a"
+      },
+      {
+        "node_id": "30b5c2dfd26c",
+        "id": "32:b9:c2:df:d2:6c"
+      },
+      {
+        "node_id": "30b5c2d9cb02",
+        "id": "32:b9:c2:d9:cb:02"
+      },
+      {
+        "node_id": "14cc20bb74b6",
+        "id": "16:d0:20:bb:74:b6"
+      },
+      {
+        "node_id": "c46e1fdf117e",
+        "id": "c6:71:20:df:11:7e"
+      },
+      {
+        "node_id": "e894f63f6726",
+        "id": "ea:97:f7:3f:67:26"
+      },
+      {
+        "node_id": "90f652484917",
+        "id": "92:f9:53:48:49:17"
+      },
+      {
+        "node_id": "14cc206e9ad0",
+        "id": "16:d0:20:6e:9a:d0"
+      },
+      {
+        "node_id": "e894f64fb522",
+        "id": "ea:98:f6:4f:b5:22"
+      },
+      {
+        "node_id": "14cc206e9ab0",
+        "id": "16:d0:20:6e:9a:b0"
+      },
+      {
+        "node_id": "e8de27304332",
+        "id": "ea:e2:27:30:43:32"
+      },
+      {
+        "node_id": "10feedcd6b1e",
+        "id": "12:02:ed:cd:6b:1e"
+      },
+      {
+        "node_id": "10feedaf7186",
+        "id": "12:01:ee:af:71:86"
+      },
+      {
+        "node_id": "14cc203b16b8",
+        "id": "16:cf:21:3b:16:b8"
+      },
+      {
+        "node_id": "c46e1f2b6d56",
+        "id": "c6:71:20:2b:6d:56"
+      },
+      {
+        "node_id": "60e327e761a2",
+        "id": "62:e6:28:e7:61:a2"
+      },
+      {
+        "node_id": "30b5c2dfd332",
+        "id": "32:b8:c3:df:d3:32"
+      },
+      {
+        "node_id": "60e327601f6e",
+        "id": "62:e7:27:60:1f:6e"
+      },
+      {
+        "node_id": "90f6524ae24c",
+        "id": "92:f9:53:4a:e2:4c"
+      },
+      {
+        "node_id": "60e327be005e",
+        "id": "62:e6:28:be:00:5e"
+      },
+      {
+        "node_id": "14cc20c250c6",
+        "id": "16:cf:21:c2:50:c6"
+      },
+      {
+        "node_id": "e894f6cd4306",
+        "id": "ea:98:f6:cd:43:06"
+      },
+      {
+        "node_id": "30b5c2abe158",
+        "id": "32:b8:c3:ab:e1:58"
+      }
+    ],
+    "links": [
+      {
+        "vpn": false,
+        "tq": 2.297,
+        "source": 0,
+        "bidirect": true,
+        "target": 110
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 1,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.012,
+        "source": 1,
+        "bidirect": true,
+        "target": 23
+      },
+      {
+        "vpn": false,
+        "tq": 2.198,
+        "source": 2,
+        "bidirect": true,
+        "target": 105
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 2,
+        "bidirect": true,
+        "target": 23
+      },
+      {
+        "vpn": false,
+        "tq": 3.312,
+        "source": 2,
+        "bidirect": false,
+        "target": 19
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 2,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 2.629,
+        "source": 2,
+        "bidirect": false,
+        "target": 158
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 3,
+        "bidirect": true,
+        "target": 127
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 3,
+        "bidirect": true,
+        "target": 23
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 4,
+        "bidirect": true,
+        "target": 119
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 4,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 4,
+        "bidirect": true,
+        "target": 23
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 5,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 5,
+        "bidirect": true,
+        "target": 23
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 5,
+        "bidirect": true,
+        "target": 9
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 6,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 6,
+        "bidirect": true,
+        "target": 23
+      },
+      {
+        "vpn": false,
+        "tq": 1.159,
+        "source": 7,
+        "bidirect": true,
+        "target": 73
+      },
+      {
+        "vpn": false,
+        "tq": 1.037,
+        "source": 7,
+        "bidirect": true,
+        "target": 48
+      },
+      {
+        "vpn": false,
+        "tq": 1.012,
+        "source": 7,
+        "bidirect": false,
+        "target": 45
+      },
+      {
+        "vpn": false,
+        "tq": 1.123,
+        "source": 8,
+        "bidirect": true,
+        "target": 136
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 8,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 8,
+        "bidirect": true,
+        "target": 23
+      },
+      {
+        "vpn": false,
+        "tq": 1.417,
+        "source": 9,
+        "bidirect": true,
+        "target": 138
+      },
+      {
+        "vpn": false,
+        "tq": 1.154,
+        "source": 9,
+        "bidirect": false,
+        "target": 93
+      },
+      {
+        "vpn": false,
+        "tq": 1.17,
+        "source": 9,
+        "bidirect": true,
+        "target": 33
+      },
+      {
+        "vpn": false,
+        "tq": 1.723,
+        "source": 10,
+        "bidirect": false,
+        "target": 59
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 10,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 10,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.875,
+        "source": 10,
+        "bidirect": true,
+        "target": 35
+      },
+      {
+        "vpn": false,
+        "tq": 1.209,
+        "source": 11,
+        "bidirect": true,
+        "target": 73
+      },
+      {
+        "vpn": false,
+        "tq": 3.0,
+        "source": 12,
+        "bidirect": true,
+        "target": 39
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 12,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.02,
+        "source": 12,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 2.898,
+        "source": 12,
+        "bidirect": true,
+        "target": 159
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 13,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": false,
+        "tq": 1.094,
+        "source": 13,
+        "bidirect": true,
+        "target": 91
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 13,
+        "bidirect": true,
+        "target": 23
+      },
+      {
+        "vpn": false,
+        "tq": 1.085,
+        "source": 14,
+        "bidirect": true,
+        "target": 40
+      },
+      {
+        "vpn": false,
+        "tq": 1.081,
+        "source": 14,
+        "bidirect": true,
+        "target": 101
+      },
+      {
+        "vpn": false,
+        "tq": 1.138,
+        "source": 14,
+        "bidirect": true,
+        "target": 58
+      },
+      {
+        "vpn": false,
+        "tq": 1.149,
+        "source": 14,
+        "bidirect": true,
+        "target": 154
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 15,
+        "bidirect": true,
+        "target": 111
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 15,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": false,
+        "tq": 1.012,
+        "source": 16,
+        "bidirect": false,
+        "target": 45
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 17,
+        "bidirect": false,
+        "target": 127
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 17,
+        "bidirect": false,
+        "target": 50
+      },
+      {
+        "vpn": true,
+        "tq": 1.012,
+        "source": 17,
+        "bidirect": false,
+        "target": 23
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 17,
+        "bidirect": false,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 18,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 18,
+        "bidirect": true,
+        "target": 23
+      },
+      {
+        "vpn": false,
+        "tq": 2.339,
+        "source": 19,
+        "bidirect": false,
+        "target": 78
+      },
+      {
+        "vpn": false,
+        "tq": 1.889,
+        "source": 19,
+        "bidirect": false,
+        "target": 97
+      },
+      {
+        "vpn": false,
+        "tq": 1.09,
+        "source": 19,
+        "bidirect": true,
+        "target": 158
+      },
+      {
+        "vpn": false,
+        "tq": 1.433,
+        "source": 19,
+        "bidirect": false,
+        "target": 32
+      },
+      {
+        "vpn": false,
+        "tq": 1.081,
+        "source": 20,
+        "bidirect": true,
+        "target": 133
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 20,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 20,
+        "bidirect": true,
+        "target": 23
+      },
+      {
+        "vpn": false,
+        "tq": 1.049,
+        "source": 21,
+        "bidirect": true,
+        "target": 43
+      },
+      {
+        "vpn": false,
+        "tq": 1.604,
+        "source": 21,
+        "bidirect": true,
+        "target": 114
+      },
+      {
+        "vpn": false,
+        "tq": 1.483,
+        "source": 21,
+        "bidirect": true,
+        "target": 24
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 21,
+        "bidirect": true,
+        "target": 95
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 21,
+        "bidirect": true,
+        "target": 47
+      },
+      {
+        "vpn": false,
+        "tq": 1.133,
+        "source": 21,
+        "bidirect": true,
+        "target": 26
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 21,
+        "bidirect": true,
+        "target": 139
+      },
+      {
+        "vpn": false,
+        "tq": 1.364,
+        "source": 22,
+        "bidirect": true,
+        "target": 120
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 22,
+        "bidirect": true,
+        "target": 37
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 23,
+        "bidirect": true,
+        "target": 80
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 106
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 86
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 23,
+        "bidirect": true,
+        "target": 104
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 81
+      },
+      {
+        "vpn": true,
+        "tq": 1.008,
+        "source": 23,
+        "bidirect": true,
+        "target": 94
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 159
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 23,
+        "bidirect": true,
+        "target": 96
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 108
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 101
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 23,
+        "bidirect": true,
+        "target": 102
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 103
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 23,
+        "bidirect": true,
+        "target": 71
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 42
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 23,
+        "bidirect": true,
+        "target": 143
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 112
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 68
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 23,
+        "bidirect": true,
+        "target": 117
+      },
+      {
+        "vpn": true,
+        "tq": 1.012,
+        "source": 23,
+        "bidirect": true,
+        "target": 50
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 34
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 161
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 120
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 23,
+        "bidirect": true,
+        "target": 121
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 123
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 40
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 125
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 126
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 44
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 127
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 23,
+        "bidirect": true,
+        "target": 36
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 140
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 49
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 37
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 23,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 23,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 53
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 131
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 56
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 134
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 23,
+        "bidirect": true,
+        "target": 136
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 23,
+        "bidirect": true,
+        "target": 109
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 46
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 62
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 142
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 23,
+        "bidirect": true,
+        "target": 64
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 29
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 23,
+        "bidirect": true,
+        "target": 66
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 23,
+        "bidirect": true,
+        "target": 145
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 65
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 23,
+        "bidirect": true,
+        "target": 146
+      },
+      {
+        "vpn": true,
+        "tq": 1.012,
+        "source": 23,
+        "bidirect": true,
+        "target": 147
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 23,
+        "bidirect": true,
+        "target": 77
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 160
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 23,
+        "bidirect": true,
+        "target": 72
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 23,
+        "bidirect": true,
+        "target": 74
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 75
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 23,
+        "bidirect": true,
+        "target": 149
+      },
+      {
+        "vpn": true,
+        "tq": 1.02,
+        "source": 23,
+        "bidirect": true,
+        "target": 137
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 153
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 148
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 87
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 23,
+        "bidirect": true,
+        "target": 79
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 24,
+        "bidirect": true,
+        "target": 63
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 24,
+        "bidirect": true,
+        "target": 114
+      },
+      {
+        "vpn": false,
+        "tq": 1.809,
+        "source": 24,
+        "bidirect": false,
+        "target": 26
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 24,
+        "bidirect": true,
+        "target": 132
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 25,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 25,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 26,
+        "bidirect": true,
+        "target": 107
+      },
+      {
+        "vpn": false,
+        "tq": 2.073,
+        "source": 27,
+        "bidirect": true,
+        "target": 44
+      },
+      {
+        "vpn": false,
+        "tq": 1.5,
+        "source": 27,
+        "bidirect": false,
+        "target": 110
+      },
+      {
+        "vpn": false,
+        "tq": 1.364,
+        "source": 28,
+        "bidirect": true,
+        "target": 57
+      },
+      {
+        "vpn": false,
+        "tq": 1.085,
+        "source": 28,
+        "bidirect": true,
+        "target": 69
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 29,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 30,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": false,
+        "tq": 1.037,
+        "source": 30,
+        "bidirect": true,
+        "target": 74
+      },
+      {
+        "vpn": true,
+        "tq": 1.037,
+        "source": 30,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.238,
+        "source": 31,
+        "bidirect": true,
+        "target": 80
+      },
+      {
+        "vpn": false,
+        "tq": 1.349,
+        "source": 32,
+        "bidirect": true,
+        "target": 78
+      },
+      {
+        "vpn": false,
+        "tq": 1.256,
+        "source": 32,
+        "bidirect": true,
+        "target": 97
+      },
+      {
+        "vpn": false,
+        "tq": 1.689,
+        "source": 32,
+        "bidirect": true,
+        "target": 158
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 34,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 35,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 35,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.138,
+        "source": 35,
+        "bidirect": true,
+        "target": 59
+      },
+      {
+        "vpn": false,
+        "tq": 1.081,
+        "source": 36,
+        "bidirect": true,
+        "target": 39
+      },
+      {
+        "vpn": false,
+        "tq": 1.128,
+        "source": 36,
+        "bidirect": true,
+        "target": 96
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 36,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 37,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.409,
+        "source": 37,
+        "bidirect": true,
+        "target": 120
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 38,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.028,
+        "source": 38,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.02,
+        "source": 38,
+        "bidirect": true,
+        "target": 60
+      },
+      {
+        "vpn": false,
+        "tq": 1.076,
+        "source": 39,
+        "bidirect": true,
+        "target": 159
+      },
+      {
+        "vpn": false,
+        "tq": 1.308,
+        "source": 39,
+        "bidirect": false,
+        "target": 96
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 39,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 39,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.094,
+        "source": 40,
+        "bidirect": true,
+        "target": 154
+      },
+      {
+        "vpn": false,
+        "tq": 1.114,
+        "source": 40,
+        "bidirect": true,
+        "target": 101
+      },
+      {
+        "vpn": false,
+        "tq": 1.062,
+        "source": 40,
+        "bidirect": true,
+        "target": 58
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 40,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.016,
+        "source": 41,
+        "bidirect": true,
+        "target": 65
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 42,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": false,
+        "tq": 1.049,
+        "source": 43,
+        "bidirect": true,
+        "target": 95
+      },
+      {
+        "vpn": false,
+        "tq": 1.049,
+        "source": 43,
+        "bidirect": true,
+        "target": 47
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 43,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 43,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.049,
+        "source": 43,
+        "bidirect": true,
+        "target": 139
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 44,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.848,
+        "source": 44,
+        "bidirect": true,
+        "target": 110
+      },
+      {
+        "vpn": false,
+        "tq": 1.054,
+        "source": 45,
+        "bidirect": true,
+        "target": 48
+      },
+      {
+        "vpn": false,
+        "tq": 1.308,
+        "source": 45,
+        "bidirect": true,
+        "target": 55
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 46,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 47,
+        "bidirect": true,
+        "target": 95
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 47,
+        "bidirect": true,
+        "target": 139
+      },
+      {
+        "vpn": false,
+        "tq": 1.771,
+        "source": 48,
+        "bidirect": false,
+        "target": 55
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 49,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 50,
+        "bidirect": true,
+        "target": 118
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 50,
+        "bidirect": false,
+        "target": 51
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 50,
+        "bidirect": true,
+        "target": 127
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 50,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 84
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 51,
+        "bidirect": false,
+        "target": 89
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 55
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 51,
+        "bidirect": false,
+        "target": 99
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 108
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 100
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 101
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 85
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 51,
+        "bidirect": false,
+        "target": 113
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 51,
+        "bidirect": false,
+        "target": 115
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 51,
+        "bidirect": false,
+        "target": 58
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 121
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 124
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 103
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 57
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 127
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 51,
+        "bidirect": false,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 51,
+        "bidirect": false,
+        "target": 53
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 130
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 94
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 134
+      },
+      {
+        "vpn": true,
+        "tq": 1.012,
+        "source": 51,
+        "bidirect": false,
+        "target": 136
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 68
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 141
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 51,
+        "bidirect": false,
+        "target": 125
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 146
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 147
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 150
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 51,
+        "bidirect": false,
+        "target": 122
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 51,
+        "bidirect": false,
+        "target": 74
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 156
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 144
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 77
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 78
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 51,
+        "bidirect": false,
+        "target": 161
+      },
+      {
+        "vpn": false,
+        "tq": 1.09,
+        "source": 52,
+        "bidirect": true,
+        "target": 112
+      },
+      {
+        "vpn": false,
+        "tq": 2.161,
+        "source": 54,
+        "bidirect": false,
+        "target": 129
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 55,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 57,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.032,
+        "source": 58,
+        "bidirect": false,
+        "target": 154
+      },
+      {
+        "vpn": false,
+        "tq": 1.22,
+        "source": 58,
+        "bidirect": true,
+        "target": 101
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 58,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.104,
+        "source": 61,
+        "bidirect": true,
+        "target": 82
+      },
+      {
+        "vpn": false,
+        "tq": 1.114,
+        "source": 62,
+        "bidirect": true,
+        "target": 88
+      },
+      {
+        "vpn": false,
+        "tq": 1.045,
+        "source": 62,
+        "bidirect": true,
+        "target": 145
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 62,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 63,
+        "bidirect": true,
+        "target": 114
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 63,
+        "bidirect": true,
+        "target": 132
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 64,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 65,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 66,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.094,
+        "source": 67,
+        "bidirect": true,
+        "target": 105
+      },
+      {
+        "vpn": false,
+        "tq": 11.591,
+        "source": 67,
+        "bidirect": true,
+        "target": 158
+      },
+      {
+        "vpn": false,
+        "tq": 1.099,
+        "source": 69,
+        "bidirect": true,
+        "target": 89
+      },
+      {
+        "vpn": false,
+        "tq": 1.509,
+        "source": 70,
+        "bidirect": true,
+        "target": 83
+      },
+      {
+        "vpn": false,
+        "tq": 1.164,
+        "source": 70,
+        "bidirect": true,
+        "target": 76
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 71,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.149,
+        "source": 72,
+        "bidirect": true,
+        "target": 151
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 72,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.049,
+        "source": 75,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.321,
+        "source": 76,
+        "bidirect": true,
+        "target": 83
+      },
+      {
+        "vpn": false,
+        "tq": 1.192,
+        "source": 78,
+        "bidirect": false,
+        "target": 97
+      },
+      {
+        "vpn": true,
+        "tq": 1.02,
+        "source": 78,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 2.107,
+        "source": 78,
+        "bidirect": true,
+        "target": 158
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 79,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 80,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 81,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 2.107,
+        "source": 82,
+        "bidirect": true,
+        "target": 140
+      },
+      {
+        "vpn": false,
+        "tq": 2.008,
+        "source": 83,
+        "bidirect": true,
+        "target": 88
+      },
+      {
+        "vpn": false,
+        "tq": 1.977,
+        "source": 83,
+        "bidirect": false,
+        "target": 145
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 84,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 85,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 86,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.555,
+        "source": 86,
+        "bidirect": true,
+        "target": 161
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 87,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.016,
+        "source": 88,
+        "bidirect": true,
+        "target": 145
+      },
+      {
+        "vpn": false,
+        "tq": 1.491,
+        "source": 88,
+        "bidirect": false,
+        "target": 117
+      },
+      {
+        "vpn": true,
+        "tq": 1.012,
+        "source": 89,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 28.333,
+        "source": 90,
+        "bidirect": false,
+        "target": 99
+      },
+      {
+        "vpn": false,
+        "tq": 1.269,
+        "source": 92,
+        "bidirect": true,
+        "target": 122
+      },
+      {
+        "vpn": false,
+        "tq": 1.016,
+        "source": 93,
+        "bidirect": true,
+        "target": 138
+      },
+      {
+        "vpn": false,
+        "tq": 1.02,
+        "source": 93,
+        "bidirect": true,
+        "target": 98
+      },
+      {
+        "vpn": false,
+        "tq": 1.016,
+        "source": 94,
+        "bidirect": true,
+        "target": 152
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 95,
+        "bidirect": true,
+        "target": 139
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 96,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.288,
+        "source": 96,
+        "bidirect": true,
+        "target": 159
+      },
+      {
+        "vpn": false,
+        "tq": 1.932,
+        "source": 97,
+        "bidirect": true,
+        "target": 158
+      },
+      {
+        "vpn": false,
+        "tq": 1.016,
+        "source": 98,
+        "bidirect": true,
+        "target": 138
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 99,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 100,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.062,
+        "source": 101,
+        "bidirect": true,
+        "target": 154
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 102,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 104,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.256,
+        "source": 105,
+        "bidirect": true,
+        "target": 106
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 106,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.555,
+        "source": 108,
+        "bidirect": true,
+        "target": 157
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 109,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.244,
+        "source": 113,
+        "bidirect": true,
+        "target": 155
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 113,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.0,
+        "source": 114,
+        "bidirect": true,
+        "target": 132
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 115,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.25,
+        "source": 116,
+        "bidirect": true,
+        "target": 124
+      },
+      {
+        "vpn": false,
+        "tq": 1.747,
+        "source": 117,
+        "bidirect": true,
+        "target": 145
+      },
+      {
+        "vpn": true,
+        "tq": 1.024,
+        "source": 117,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 120,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 121,
+        "bidirect": true,
+        "target": 127
+      },
+      {
+        "vpn": true,
+        "tq": 1.02,
+        "source": 121,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": false,
+        "tq": 1.024,
+        "source": 122,
+        "bidirect": true,
+        "target": 143
+      },
+      {
+        "vpn": true,
+        "tq": 1.02,
+        "source": 122,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 123,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 124,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 126,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 127,
+        "bidirect": true,
+        "target": 128
+      },
+      {
+        "vpn": true,
+        "tq": 1.032,
+        "source": 128,
+        "bidirect": true,
+        "target": 159
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 128,
+        "bidirect": true,
+        "target": 141
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 128,
+        "bidirect": true,
+        "target": 143
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 128,
+        "bidirect": true,
+        "target": 160
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 128,
+        "bidirect": true,
+        "target": 131
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 128,
+        "bidirect": true,
+        "target": 140
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 128,
+        "bidirect": true,
+        "target": 142
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 128,
+        "bidirect": true,
+        "target": 145
+      },
+      {
+        "vpn": true,
+        "tq": 1.008,
+        "source": 128,
+        "bidirect": true,
+        "target": 150
+      },
+      {
+        "vpn": true,
+        "tq": 1.004,
+        "source": 128,
+        "bidirect": true,
+        "target": 149
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 128,
+        "bidirect": true,
+        "target": 156
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 128,
+        "bidirect": true,
+        "target": 137
+      },
+      {
+        "vpn": true,
+        "tq": 1.016,
+        "source": 128,
+        "bidirect": true,
+        "target": 144
+      },
+      {
+        "vpn": true,
+        "tq": 1.0,
+        "source": 128,
+        "bidirect": true,
+        "target": 148
+      },
+      {
+        "vpn": false,
+        "tq": 1.071,
+        "source": 130,
+        "bidirect": true,
+        "target": 135
+      },
+      {
+        "vpn": false,
+        "tq": 1.099,
+        "source": 130,
+        "bidirect": true,
+        "target": 153
+      },
+      {
+        "vpn": false,
+        "tq": 1.192,
+        "source": 135,
+        "bidirect": true,
+        "target": 153
+      },
+      {
+        "vpn": false,
+        "tq": 1.903,
+        "source": 144,
+        "bidirect": true,
+        "target": 158
+      }
+    ],
+    "multigraph": false,
+    "graph": [],
+    "directed": false
+  },
+  "version": 1
+}
