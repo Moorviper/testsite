@@ -32,7 +32,7 @@
   "radius": 80
   },
   "summerizeAutoupdater": true,
-  "normalizeVersion": true,
+  "normalizeVersion": false,
   "embedImages": true,
   "siteNames": [
     { "site": "fffd", "name": "Freifunk Fulda" },
