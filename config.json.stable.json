@@ -1,0 +1,55 @@
+{
+  "dataPath": [
+    "https://meshviewer.fulda.freifunk.net/data/",
+    "https://meshviewer.fulda.freifunk.net/hessen/ks/",
+    "https://api.marburg.freifunk.net/",
+    "https://map.darmstadt.freifunk.net/data/",
+    "https://meshviewer.fulda.freifunk.net/hessen/wi/",
+    "https://meshviewer.fulda.freifunk.net/hessen/fr/",
+    "https://meshviewer.fulda.freifunk.net/hessen/rn/"
+  ],
+  "siteName": "Freifunk Hessen",
+  "mapSigmaScale": 0.5,
+  "showContact": true,
+  "maxAge": 14,
+  "blinkingHours": 8,
+  "mapLayers": [
+    { "name": "MapQuest",
+      "url": "https://otile{s}-s.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.jpg",
+      "config": {
+        "subdomains": "1234",
+        "type": "osm",
+        "attribution": "Tiles &copy; <a href=\"https://www.mapquest.com/\" target=\"_blank\">MapQuest</a>, Data CC-BY-SA OpenStreetMap",
+        "maxZoom": 19
+      }
+    },
+    { "name": "Mapbox (Sat)",
+      "url": "https://c.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png",
+      "config": {
+        "type": "",
+        "attribution": "Tiles &copy; <a href=\"https://www.mapbox.com/\" target=\"_blank\">MapQuest</a>",
+        "maxZoom": 19
+      }
+    }
+  ],
+  "fixedCenter": {
+  "lat": 50.373496144, 
+  "lng": 9.085693359,
+  "radius": 80
+  },
+  "summerizeAutoupdater": true,
+  "normalizeVersion": true,
+  "siteNames": [
+    { "site": "fffd", "name": "Freifunk Fulda" },
+    { "site": "ffmr", "name": "Freifunk Marburg" },
+    { "site": "ffks", "name": "Freifunk Kassel" },
+    { "site": "ffda", "name": "Freifunk Darmstadt" },
+    { "site": "ffffm", "name": "Freifunk Frankfurt" },
+    { "site": "ffrn", "name": "Freifunk Rhein Neckar" },
+    { "site": "ffwi", "name": "Freifunk Wiesbaden" }
+  ],
+  "hwImg": 
+  { "thumbnail": "https://cdn.rawgit.com/Moorviper/meshviewer_hwpics/master/nodes/{MODELHASH}.svg",
+    "caption": "Knoten {MODELHASH}"
+  }
+}
