@@ -7064,7 +7064,7 @@ define('infobox/node',["moment", "numeral", "tablesort", "tablesort.numeric"],
       return undefined
 
     return function (el) {
-      el.appendChild(showBar("Airtime 2,4", d.nodeinfo.network.wireless.airtime2))
+      el.appendChild(showBar("Airtime2", d.nodeinfo.network.wireless.airtime2))
     }
   }
 
@@ -7073,7 +7073,7 @@ define('infobox/node',["moment", "numeral", "tablesort", "tablesort.numeric"],
       return undefined
 
     return function (el) {
-      el.appendChild(showBar("Airtime 5", d.nodeinfo.network.wireless.airtime5))
+      el.appendChild(showBar("Airtime5", d.nodeinfo.network.wireless.airtime5))
     }
   }
 
