@@ -1,27 +1,18 @@
 {
-"dataPath": "https://karte.ffdus.de/data/",
-"siteName": "HopGlass Test | data from http://karte.ffdus.de/data/",
-"mapSigmaScale": 0.5, "showContact": true, "maxAge": 14, "blinkingHours": 8, "mapLayers": [ { "name": "MapQuest", "url": "https://otile{s}-s.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.jpg", "config": { "subdomains": "1234", "type": "osm", "attribution": "Tiles &copy; <a href=\"https://www.mapquest.com/\" target=\"_blank\">MapQuest</a>, Data CC-BY-SA OpenStreetMap", "maxZoom": 19 } }, { "name": "Mapbox (Sat)", "url": "https://c.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png", "config": { "type": "", "attribution": "Tiles &copy; <a href=\"https://www.mapbox.com/\" target=\"_blank\">MapQuest</a>", "maxZoom": 19 } } ],
-"globalInfos": [
-{
-"name": "Wochenstatistik",
-"href": "http://map.ffdus.de:3000/dashboard/db/global",
-"thumbnail": "http://map.ffdus.de:3000/render/dashboard-solo/db/global?panelId=1&fullscreen&theme=light&width=600&height=300"
-},
-{
-"href": "http://map.ffdus.de:3000/dashboard/db/global",
-"thumbnail": "http://map.ffdus.de:3000/render/dashboard-solo/db/global?panelId=8fullscreen&theme=light&width=600&height=300"
-}
-],
-"siteNames": [
-{
-"site": "ffdus",
-"name": "Flingern"
-}
-],
-"hwImg": [
-  { "thumbnail": "https://rawgit.com/Moorviper/meshviewer_hwpics/master/nodes/{MODELHASH}.svg",
-    "caption": "Knoten {MODELHASH}"
-  }
- ]
+    "dataPath": "http://193.239.104.24:4000/",
+    "siteName": "HopGlass Test | data from srv1 Freifunk Fulda",
+    "mapSigmaScale": 0.5,
+    "showContact": true,
+    "maxAge": 14,
+    "blinkingHours": 8,
+    "mapLayers": [{ "name": "MapQuest", "url": "https://otile{s}-s.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.jpg", "config": { "subdomains": "1234", "type": "osm", "attribution": "Tiles &copy; <a href=\"https://www.mapquest.com/\" target=\"_blank\">MapQuest</a>, Data CC-BY-SA OpenStreetMap", "maxZoom": 19 } }, { "name": "Mapbox (Sat)", "url": "https://c.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png", "config": { "type": "", "attribution": "Tiles &copy; <a href=\"https://www.mapbox.com/\" target=\"_blank\">MapQuest</a>", "maxZoom": 19 } }],
+    "globalInfos": [{ "name": "Gateways", "href": "https://grafana.fulda.freifunk.net/render/dashboard-solo/db/freifunk-fulda-overview?panelId=8&fullscreen", "thumbnail": "https://grafana.fulda.freifunk.net/render/dashboard-solo/db/freifunk-fulda-overview?panelId=8&fullscreen&theme=light&width=528&height=266", "caption": "Gateways" }, { "name": "Clients", "href": "https://grafana.fulda.freifunk.net/render/dashboard-solo/db/freifunk-fulda-overview?panelId=7&fullscreen", "thumbnail": "https://grafana.fulda.freifunk.net/render/dashboard-solo/db/freifunk-fulda-overview?panelId=7&fullscreen&theme=light&width=528&height=266", "caption": "Clients" }],
+    "siteNames": [{
+        "site": "fffd",
+        "name": "Freifunk Fulda"
+    }],
+    "hwImg": [{
+        "thumbnail": "https://rawgit.com/Moorviper/meshviewer_hwpics/master/nodes/{MODELHASH}.svg",
+        "caption": "Knoten {MODELHASH}"
+    }]
 }
