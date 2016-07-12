@@ -18,10 +18,5 @@
 "site": "ffdus",
 "name": "Flingern"
 }
-],
-"hwImg": [
-  { "thumbnail": "https://rawgit.com/Moorviper/meshviewer_hwpics/master/nodes/{MODELHASH}.svg",
-    "caption": "Knoten {MODELHASH}"
-  }
- ]
+]
 }
