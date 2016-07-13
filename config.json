@@ -1,11 +1,21 @@
 {
     "dataPath": "http://tunnelhoshi.net:4000/",
-    "siteName": "HopGlass Test | data from srv1 Freifunk Fulda",
+    "siteName": "HopGlass Test | data from tunnelhoshi Freifunk Fulda",
     "mapSigmaScale": 0.5,
-    "showContact": true,
+    "showContact": false,
     "maxAge": 14,
     "blinkingHours": 8,
-    "mapLayers": [{ "name": "MapQuest", "url": "https://otile{s}-s.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.jpg", "config": { "subdomains": "1234", "type": "osm", "attribution": "Tiles &copy; <a href=\"https://www.mapquest.com/\" target=\"_blank\">MapQuest</a>, Data CC-BY-SA OpenStreetMap", "maxZoom": 19 } }, { "name": "Mapbox (Sat)", "url": "https://c.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png", "config": { "type": "", "attribution": "Tiles &copy; <a href=\"https://www.mapbox.com/\" target=\"_blank\">MapQuest</a>", "maxZoom": 19 } }],
+    "mapLayers": [
+            {"name": "normal",
+                "url": "http://b.tiles.mapbox.com/v4/mapquest.streets-mb/{z}/{x}/{y}.jpg?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpbG10dnA3NzY3OTZ0dmtwejN2ZnUycjYifQ.1W5oTOnWXQ9R1w8u3Oo1yA",
+                "config": {
+                "subdomains": "1234",
+                "type": "osm",
+                "attribution": "Tiles &copy; <a href=\"https://www.mapbox.com/\" target=\"_blank\">mapbox</a>, Data CC-BY-SA OpenStreetMap",
+                "maxZoom": 19
+                }
+            }, 
+            { "name": "Mapbox (Sat)", "url": "https://c.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png", "config": { "type": "", "attribution": "Tiles &copy; <a href=\"https://www.mapbox.com/\" target=\"_blank\">MapQuest</a>", "maxZoom": 19 } }],
     "globalInfos": [{ "name": "Gateways", "href": "https://grafana.fulda.freifunk.net/render/dashboard-solo/db/freifunk-fulda-overview?panelId=8&fullscreen", "thumbnail": "https://grafana.fulda.freifunk.net/render/dashboard-solo/db/freifunk-fulda-overview?panelId=8&fullscreen&theme=light&width=528&height=266", "caption": "Gateways" }, { "name": "Clients", "href": "https://grafana.fulda.freifunk.net/render/dashboard-solo/db/freifunk-fulda-overview?panelId=7&fullscreen", "thumbnail": "https://grafana.fulda.freifunk.net/render/dashboard-solo/db/freifunk-fulda-overview?panelId=7&fullscreen&theme=light&width=528&height=266", "caption": "Clients" }],
     "siteNames": [{
         "site": "fffd",
