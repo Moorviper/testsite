@@ -1,5 +1,5 @@
 {
-    "dataPath": "http://193.239.104.24:4000/",
+    "dataPath": "http://tunnelhoshi.net:4000/",
     "siteName": "HopGlass Test | data from srv1 Freifunk Fulda",
     "mapSigmaScale": 0.5,
     "showContact": true,
