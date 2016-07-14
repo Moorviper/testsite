@@ -1,0 +1,76 @@
+
+    "26139dda3181": {
+        "nodeinfo": {
+            "owner": {
+                "contact": "Freifunk Fulda"
+            },
+            "hostname": "Gateway 4 Tunnel1",
+            "network": {
+                "addresses": [
+                    "10.185.0.4"
+                ],
+                "mac": "26:13:9d:da:31:81"
+            },
+            "node_id": "26139dda3181",
+            "hardware": {
+                "model": "Raspberry Pi 2 Model B",
+                "nproc": "4"
+            },
+            "pages": [
+                "https://fulda.freifunk.net"
+            ]
+        },
+        "flags": {
+            "gateway": true
+        },
+        "statistics": {
+            "clients": {
+                "wifi": 0,
+                "total": 0
+            }
+        },
+        "neighbours": {
+            "batadv": {
+                "26:13:9d:da:31:81": {}
+            }
+        }
+    },
+    "26139dda3181": {
+        "nodeinfo": {
+            "owner": {
+                "contact": "Freifunk Fulda"
+            },
+            "hostname": "Gateway 4 Tunnel2",
+            "network": {
+                "addresses": [
+                    "10.185.0.4"
+                ],
+                "mac": "26:13:9d:da:31:81"
+            },
+            "node_id": "26139dda3181",
+            "hardware": {
+                "model": "Raspberry Pi 2 Model B",
+                "nproc": "4"
+            },
+            "pages": [
+                "https://fulda.freifunk.net"
+            ]
+        },
+        "flags": {
+            "gateway": true
+        },
+        "statistics": {
+            "clients": {
+                "wifi": 0,
+                "total": 0
+            }
+        },
+        "neighbours": {
+            "batadv": {
+                "26:13:9d:da:31:82": {}
+            }
+        }
+    },
+
+
+26:13:9d:da:31:81
