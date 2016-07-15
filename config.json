@@ -1,5 +1,5 @@
 {
-    "dataPath": "http://tunnelhoshi.net:4000/",
+    "dataPath": "https://tunnelhoshi.net/data/",
     "siteName": "HopGlass Test | data from tunnelhoshi Freifunk Fulda",
     "mapSigmaScale": 0.5,
     "showContact": false,
